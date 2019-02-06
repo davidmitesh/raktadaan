@@ -1,0 +1,267 @@
+{"userid":"1","message":"kaha khais?"}
+{"userid":"0","message":"oe?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"0","message":"oe?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"0","message":"oe?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"kaha khais?"}
+{"userid":"1","message":"test"}
+{"userid":"0","message":"wassup"}
+{"userid":"1","message":"nigga"}
+{"userid":"1","message":"nigga"}
+{"userid":"0","message":"homie"}
+{"userid":"0","message":"homie"}
+{"userid":"0","message":"Bonnie"}
+{"userid":"0","message":"Bonnie"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"0","message":"qeu"}
+{"userid":"0","message":"qeu"}
+{"userid":"0","message":"test"}
+{"userid":"0","message":"yo"}
+{"userid":"0","message":"Holmes"}
+{"userid":"1","message":"gi"}
+{"userid":"1","message":"gi"}
+{"userid":"1","message":"sfh"}
+{"userid":"1","message":"sfh"}
+{"userid":"0","message":"dhsy"}
+{"userid":"0","message":"dhsy"}
+{"userid":"1","message":"HD"}
+{"userid":"1","message":"HD"}
+{"userid":"1","message":"HD"}
+{"userid":"0","message":"sign GM"}
+{"userid":"0","message":"sign GM"}
+{"userid":"1","message":"smash"}
+{"userid":"1","message":"smash"}
+{"userid":"1","message":"smash"}
+{"userid":"0","message":"does did"}
+{"userid":"0","message":"does did"}
+{"userid":"1","message":"churcht"}
+{"userid":"1","message":"churcht"}
+{"userid":"1","message":"churcht"}
+{"userid":"1","message":"churcht"}
+{"userid":"0","message":"chin"}
+{"userid":"0","message":"chin"}
+{"userid":"0","message":"drunk"}
+{"userid":"0","message":"drunk"}
+{"userid":"0","message":"asked"}
+{"userid":"0","message":"asked"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"ass"}
+{"userid":"1","message":"face"}
+{"userid":"1","message":"face"}
+{"userid":"1","message":"face"}
+{"userid":"1","message":"face"}
+{"userid":"1","message":"face"}
+{"userid":"1","message":"face"}
+{"userid":"0","message":"face"}
+{"userid":"0","message":"face"}
+{"userid":"0","message":"face"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"thy"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"bucks"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"thigh"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"guv"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"1","message":"Aztec"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"drink"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"do"}
+{"userid":"0","message":"do"}
+{"userid":"0","message":"do"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"we"}
+{"userid":"0","message":"door"}
+{"userid":"0","message":"door"}
+{"userid":"0","message":"door"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"stuff"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"1","message":"hello"}
+{"userid":"0","message":"hi"}
+{"userid":"0","message":"hi"}
+{"userid":"0","message":"hi"}
+{"userid":"0","message":"gi"}
+{"userid":"0","message":"gi"}
+{"userid":"0","message":"gi"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"1","message":"Reggie"}
+{"userid":"0","message":"test"}
+{"userid":"0","message":"aqpo"}
+{"userid":"1","message":"aqpo"}
+{"userid":"1","message":"aqpo"}
+{"userid":"1","message":"xbd"}
+{"userid":"1","message":"xbd"}
+{"userid":"0","message":"full"}
+{"userid":"0","message":"full"}
+{"userid":"1","message":"chin"}
+{"userid":"1","message":"chin"}
+{"userid":"0","message":"alright"}
+{"userid":"0","message":"alright"}
+{"userid":"0","message":"Monday"}
+{"userid":"0","message":"Monday"}
+{"userid":"1","message":"do"}
+{"userid":"1","message":"do"}
+{"userid":"1","message":"Ahmad"}
+{"userid":"1","message":"Ahmad"}
+{"userid":"0","message":"we got"}
+{"userid":"0","message":"we got"}
+{"userid":"0","message":"test"}
+{"userid":"0","message":"hello"}
+{"userid":"0","message":"chill"}
+{"userid":"1","message":"vdjb"}
+{"userid":"1","message":"vdjb"}
+{"userid":"1","message":"vdj"}
+{"userid":"1","message":"vdj"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":"hey"}
+{"userid":"1","message":" cys"}
+{"userid":"0","message":"duh"}
+{"userid":"1","message":"gjd"}
+{"userid":"0","message":"ds"}
+{"userid":"0","message":"jsjk"}
+{"userid":"1","message":"hlfh"}
+{"userid":"1","message":"gygbh"}
+{"userid":"0","message":"thanks"}
+{"userid":"1","message":"hggnn"}
+{"userid":"1","message":"gbhgv"}
+{"userid":"0","message":"gfs"}
+{"userid":"0","message":"gfs"}
+{"userid":"0","message":"gfs"}
+{"userid":"0","message":"faiag"}
+{"userid":"0","message":"faiag"}
+{"userid":"0","message":"faiag"}
+{"userid":"0","message":"thanks for the update"}
+{"userid":"0","message":"thanks for the update"}
+{"userid":"0","message":"thanks for the update"}
+{"userid":"1","message":"grhvkfi"}
+{"userid":"1","message":"vngvhh"}
+{"userid":"0","message":"lakh"}
+{"userid":"0","message":"lakh"}
+{"userid":"0","message":"lakh"}
+{"userid":"1","message":"huhbj"}
+{"userid":"0","message":"uspb"}
+{"userid":"0","message":"uspb"}
+{"userid":"0","message":"uspb"}
+{"userid":"1","message":"hhbjjb"}
+{"userid":"0","message":"fun"}
+{"userid":"0","message":"fun"}
+{"userid":"0","message":"fun"}
+{"userid":"1","message":"guhnjb"}
+{"userid":"0","message":"run"}
+{"userid":"0","message":"run"}
+{"userid":"0","message":"run"}
+{"userid":"1","message":"ftvngc"}
+{"userid":"1","message":"hello"}
+{"userid":"0","message":"hi"}
+{"userid":"1","message":"can youbhear me"}
+{"userid":"1","message":"i was wondering"}
+{"userid":"1","message":"oe"}
+{"userid":"0","message":"yo"}
+{"userid":"1","message":"oe"}
+{"userid":"1","message":"oe"}
+{"userid":"0","message":"hajur"}
+{"userid":"0","message":"hajur"}
+{"userid":"1","message":"sanxai"}
+{"userid":"1","message":"sanxai"}
+{"userid":"0","message":"ekdum"}
+{"userid":"0","message":"ekdum"}
+{"userid":"1","message":"hjsks"}
+{"userid":"1","message":"hjsks"}
+{"userid":"0","message":"kun bhasa ho"}
+{"userid":"0","message":"kun bhasa ho"}
+{"userid":"1","message":"ta sanxai xas"}
+{"userid":"1","message":"ta sanxai xas"}
+{"userid":"0","message":"thanks for letting us stay"}
+{"userid":"0","message":"thanks for letting us stay"}
+{"userid":"1","message":"khana khaney haina"}
+{"userid":"1","message":"khana khaney haina"}
+{"userid":"0","message":"we can get the update"}
+{"userid":"0","message":"we can get the update"}
+{"userid":"1","message":"chup bey chutiya"}
+{"userid":"1","message":"chup bey chutiya"}
+{"userid":"0","message":"I will be there in a few minutes"}
+{"userid":"0","message":"I will be there in a few minutes"}
+{"userid":"1","message":"k bhnxa yr"}
+{"userid":"1","message":"k bhnxa yr"}
+{"userid":"0","message":"😂😂😂😂"}
+{"userid":"0","message":"😂😂😂😂"}
+{"userid":"0","message":"😘😘😘😘"}
+{"userid":"0","message":"😘😘😘😘"}
+{"userid":"1","message":"😍"}
+{"userid":"1","message":"😍"}
+{"userid":"1","message":"😍"}

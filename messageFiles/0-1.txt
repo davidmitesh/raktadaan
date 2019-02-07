@@ -265,3 +265,186 @@
 {"userid":"1","message":"😍"}
 {"userid":"1","message":"😍"}
 {"userid":"1","message":"😍"}
+{"userid":"0","message":"hey"}
+{"userid":"1","message":"k xa"}
+{"userid":"1","message":"oe"}
+{"userid":"0","message":"huh"}
+{"userid":"1","message":"k xa yr halkhabar"}
+{"userid":"0","message":"😂😂😂😂😂"}
+{"userid":"0","message":"yo"}
+{"userid":"1","message":"ho ta"}
+{"userid":"1","message":"ho ta"}
+{"userid":"0","message":"khojhnubhayeko"}
+{"userid":"0","message":"yo"}
+{"userid":"0","message":"nigga"}
+{"userid":"1","message":"marr k yr ta"}
+{"userid":"1","message":"marr k yr ta"}
+{"userid":"0","message":"ani k xa"}
+{"userid":"1","message":"oe yr"}
+{"userid":"1","message":"oe yr"}
+{"userid":"0","message":"marr yr"}
+{"userid":"0","message":"marr yr"}
+{"userid":"1","message":"hey"}
+{"userid":"0","message":"yo"}
+{"userid":"1","message":"whats j"}
+{"userid":"0","message":"out there in the dark"}
+{"userid":"1","message":"😍😍😍😍"}
+{"userid":"0","message":"getting lonely getting old"}
+{"userid":"1","message":"❤❤❤😂😂😂"}
+{"userid":"0","message":"🐄🐄🐄🐄"}
+{"userid":"1","message":"booo"}
+{"userid":"1","message":"oe"}
+{"userid":"0","message":"yo"}
+{"userid":"0","message":"fun"}
+{"userid":"1","message":"moj xa hau"}
+{"userid":"1","message":"sala"}
+{"userid":"0","message":"thanks for the update"}
+{"userid":"1","message":"marr k"}
+{"userid":"1","message":"chutiya"}
+{"userid":"0","message":"I will be there in a few minutes"}
+{"userid":"1","message":"jaam xitau"}
+{"userid":"1","message":"xitai"}
+{"userid":"0","message":"I will get back to you"}
+{"userid":"1","message":"bhai dherai na soch"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"🐶🐶🐶🐶"}
+{"userid":"1","message":""}
+{"userid":"0","message":"😂😂😂😂"}
+{"userid":"0","message":"😂😂😂😂"}
+{"userid":"1","message":"😍😂😍😂😅😂"}
+{"userid":"0","message":"ha"}
+{"userid":"0","message":"ha"}
+{"userid":"0","message":"ha"}
+{"userid":"1","message":"oe "}
+{"userid":"1","message":"oe "}
+{"userid":"1","message":"bhai"}
+{"userid":"1","message":"bhai"}
+{"userid":"0","message":"😎"}
+{"userid":"0","message":"😎"}
+{"userid":"0","message":"😎"}
+{"userid":"0","message":"😎"}
+{"userid":"1","message":"chaliraxa tani"}
+{"userid":"1","message":"chaliraxa tani"}
+{"userid":"1","message":"ok xa ta"}
+{"userid":"1","message":"ok xa ta"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"1","message":"hey bro"}
+{"userid":"1","message":"hey bro"}
+{"userid":"0","message":"huu"}
+{"userid":"0","message":"huu"}
+{"userid":"0","message":"huu"}
+{"userid":"0","message":"huu"}
+{"userid":"0","message":"huu"}
+{"userid":"1","message":"k xa bro"}
+{"userid":"1","message":"k xa bro"}
+{"userid":"1","message":"sanxai"}
+{"userid":"1","message":"sanxai"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"1","message":"k xa yr"}
+{"userid":"1","message":"k xa yr"}
+{"userid":"0","message":"😘"}
+{"userid":"0","message":"😘"}
+{"userid":"0","message":"😘"}
+{"userid":"0","message":"😘"}
+{"userid":"0","message":"😘"}
+{"userid":"0","message":"😤"}
+{"userid":"0","message":"😤"}
+{"userid":"0","message":"😤"}
+{"userid":"0","message":"😤"}
+{"userid":"0","message":"😤"}
+{"userid":"1","message":"😭😭😭"}
+{"userid":"1","message":"😭😭😭"}
+{"userid":"1","message":"oe mero sathi"}
+{"userid":"1","message":"oe mero sathi"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"1","message":"ok sry"}
+{"userid":"1","message":"ok sry"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":" hs"}
+{"userid":"0","message":" hs"}
+{"userid":"0","message":" hs"}
+{"userid":"0","message":" hs"}
+{"userid":"0","message":" hs"}
+{"userid":"0","message":" hs"}
+{"userid":"1","message":"k xa yr"}
+{"userid":"0","message":"solti"}
+{"userid":"0","message":"solti"}
+{"userid":"0","message":"solti"}
+{"userid":"0","message":"solti"}
+{"userid":"0","message":"solti"}
+{"userid":"0","message":"solti"}
+{"userid":"1","message":"😂😂😂"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"0","message":"🇳🇵"}
+{"userid":"1","message":"oe"}
+{"userid":"1","message":"k xa yr"}
+{"userid":"1","message":"😂😂😂"}
+{"userid":"1","message":"hsjs"}
+{"userid":"1","message":"hsjs"}
+{"userid":"1","message":"oe"}
+{"userid":"1","message":"oe"}
+{"userid":"1","message":"oe"}
+{"userid":"0","message":"yo"}
+{"userid":"1","message":"bdjsj"}
+{"userid":"1","message":"bdjsj"}
+{"userid":"1","message":"bdjsj"}
+{"userid":"0","message":"thanks"}
+{"userid":"0","message":"xkzjs"}
+{"userid":"1","message":"😍😍😍"}
+{"userid":"1","message":"😍😍😍"}
+{"userid":"1","message":"😍😍😍"}
+{"userid":"0","message":"dgjsjs"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"ch"}
+{"userid":"1","message":"yo"}
+{"userid":"1","message":"yo"}
+{"userid":"1","message":"yo"}
+{"userid":"1","message":"yo"}
+{"userid":"1","message":"yo"}
+{"userid":"1","message":"yo"}
+{"userid":"0","message":"yo"}
+{"userid":"0","message":"g"}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":","}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"hi"}
+{"userid":"1","message":"gh"}
+{"userid":"0","message":"hello"}
+{"userid":"0","message":"i needblooc"}
+{"userid":"1","message":"dd"}
+{"userid":"1","message":"k chha dafi boka?"}
+{"userid":"1","message":"dari"}

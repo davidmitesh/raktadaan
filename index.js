@@ -26,10 +26,27 @@ app.use(express.static(path.join(__dirname,'/images')));
 app.set('viewengine','ejs');
 
 app.get("/",(req,res)=>{ //main
-       User.find({verified:false},(err,results)=>{
+    claim=[]
+    verfalse=[]
+       User.find({},(err,results)=>{
+           _.forEach(results,function(result){
+               if ((result.donation_claim) == true && (result.verified == true))
+               {
+                   claim.push(result);
+               }
+
+           })
+           _.forEach(results,function(result){
+               if (!result.verified)
+               {
+                   verfalse.push(result);
+               }
+
+           })
 
            res.render('dashboard.ejs',{
-               users:results
+               users:verfalse,
+               claimed:claim
        })
 
      });
@@ -180,7 +197,7 @@ ambulance.find({"t":1},(err,results)=>{
                {
                    final_result=[];
                    _.forEach(results,function(result){
-                       if ((result.blood_grp == req.body.blood_grp) && (result.gender == req.body.gender) && (result.user_id != parseInt(req.body.userid))){
+                       if ((result.blood_grp == req.body.blood_grp) && (result.gender == req.body.gender) && (result.user_id != parseInt(req.body.userid)) && (result.online == true)){
                            send_data={
                                "id":result.user_id,
                                "latitude":result.loc.coordinates[1],
@@ -314,7 +331,8 @@ app.post('/login',(req,res)=>{
                "name":result.name,
               "credits":result.credits,
               "gender":result.gender,
-              "blood_grp":result.blood_grp
+              "blood_grp":result.blood_grp,
+              "online":result.online
 
           }
           res.send(send_data);
@@ -354,6 +372,47 @@ app.get('/get_unverified',(req,res)=>{
         res.send(results);
     })
 })
+
+// app.get('/get_claimed',(req,res)=>{
+//     User.find({donation_claim:true},(err,results)=>{
+//         res.render
+//     })
+// })
+
+//donor will to donate
+
+app.get('/willchanger',(req,res)=>{
+    console.log(req.query.user_id);
+    User.findOne({user_id:parseInt(req.query.user_id)},(err,results)=>{
+        if (err) {
+            throw err
+        }
+        will=results.online;
+        User.findOneAndUpdate({user_id:parseInt(req.query.user_id)},{online:!will},(err,results)=>{
+             if (err){
+                 throw err;
+             }
+            res.send('done');
+        })
+    }).catch((err)=>{
+            res.send("error");;
+    })
+
+});
+//donor verfication related jobs in website
+app.get('/donorverify',(req,res)=>{
+    User.findOneAndUpdate({"user_id":parseInt(req.query.id)},{donation_claim: true,$inc:{'credits':100}},(err,results)=>{
+        // res.redirect('/');
+        res.send('successfully verified');
+    })
+});
+ //donor verification request submitted by donor
+
+  app.get('/verifyme',(req,res)=>{
+      User.findOneAndUpdate({"user_id":parseInt(req.query.user_id)},{donation_claim: true},(err,results)=>{
+          res.send('successful');
+      })
+  })
 
 
 //socket route

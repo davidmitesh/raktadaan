@@ -448,3 +448,15 @@
 {"userid":"1","message":"dd"}
 {"userid":"1","message":"k chha dafi boka?"}
 {"userid":"1","message":"dari"}
+{"userid":"0","message":"yo"}
+{"userid":"1","message":"k xa"}
+{"userid":"0","message":"nigga"}
+{"userid":"1","message":"sanxai"}
+{"userid":"0","message":"thanks"}
+{"userid":"1","message":"moj gar"}
+{"userid":"0","message":"🇦🇪"}
+{"userid":"1","message":"hi"}
+{"userid":"0","message":"hello"}
+{"userid":"1","message":"bye"}
+{"userid":"1","message":"dd"}
+{"userid":"0","message":"tt"}

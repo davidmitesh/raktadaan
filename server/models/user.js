@@ -45,6 +45,10 @@ var userSchema = new mongoose.Schema({
     online:{
         type:Boolean,
         default:false
+    },
+    donation_claim:{
+        type:Boolean,
+        default:false
     }
 });
 // defining the location as 2d sphere space to have two points in the coordinates.

@@ -97,9 +97,41 @@
                                     </table>
                                 </div>
                             </div>
-							<div class="card">
+							<div class="row>
+							<div class="col-lg-15">
+                                <h2 class="title-1 m-b-25">Donor Claims</h2>
+                                <div class="table-responsive table--no-card m-b-40">
+                                    <table class="table table-borderless table-striped table-earning">
+                                        <thead>
+                                            <tr>
+                                                <th>Name</th>
+                                                <th>mobile No.</th>
+                                             
+												<th> proof Images</th>
+												<th> Verify </th>
+                                                <!-- <th class="text-right">price</th>
+                                                <th class="text-right">quantity</th>
+                                                <th class="text-right">total</th> -->
+                                            </tr>
+                                        </thead>
+										<tbody>
+										<% claimed.forEach(function(user){%>
+											<tr>
+												<td><%=user.name%></td>
+												<td><%=user.mobile_Number%></td>
+												<td></td>
+												<td><a href="http://192.168.137.46:3000/donorverify?id=<%=user.user_id%>">Accept</a></td>
+											</tr>
+										<%})%>
+									</tbody>
+
+                                    </table>
+                                </div>
+							
+							</div>
+							<div class="row">
                                     <div class="card-header">
-                                        <strong>Ambulance ADD</strong> Form
+                                        <strong>Ambulance ADD FORM</strong> 
                                     </div>
                                     <div class="card-body card-block">
                                         <form action="http://192.168.137.46:3000/ambulance" method="post" class="">
